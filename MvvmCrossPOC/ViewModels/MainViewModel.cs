@@ -10,9 +10,7 @@ namespace MvvmCrossPOC.ViewModels
         }
         
         public override Task Initialize()
-        {
-            //TODO: Add starting logic here
-		    
+        {		    
             return base.Initialize();
         }
         

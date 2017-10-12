@@ -13,7 +13,7 @@ namespace MvvmCrossPOC.Droid
 
         protected override IMvxApplication CreateApp()
         {
-            return new MvvmCrossPOC.App();
+			return new MvvmCrossPOC.App();
         }
 
         protected override IMvxTrace CreateDebugTrace()
